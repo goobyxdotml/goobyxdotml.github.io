@@ -1,1 +1,2 @@
-# https://goobyxdotml.github.io | my personal scripts repo
+# GOOBY! gooby?
+### https://goobyxdotml.github.io/
